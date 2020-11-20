@@ -1,0 +1,25 @@
+{
+  "name": "contador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellymoura/contador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellymoura/contador/issues"
+  },
+  "homepage": "https://github.com/gabriellymoura/contador#readme",
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
